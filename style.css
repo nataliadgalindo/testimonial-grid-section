@@ -67,10 +67,12 @@ body {
   color: #fff;
   margin-bottom: 10px;
   font-size: 20px;
+  margin: 0.5rem 0 1.25rem;
 }
 
 .quote {
   opacity: 0.7;
+  line-height: 1.4;
 }
 
 .daniel {
